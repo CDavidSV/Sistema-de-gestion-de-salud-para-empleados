@@ -8,3 +8,6 @@ Este es un programa hecho en Python que te permite gestionar una lista de emplea
 - Hacer consultas de cada empleado: puedes seleccionar un empleado de la lista y ver su información detallada, incluyendo su IMC.
 
 ## Imagenes
+
+![Screenshot 2023-03-27 002557](https://user-images.githubusercontent.com/88672259/227858267-90af2e81-b3d7-4a12-bdf1-552f155e1e17.jpg)
+![Screenshot 2023-03-27 002625](https://user-images.githubusercontent.com/88672259/227858270-28e6b43a-0c33-479f-a3c7-12e7f408c86c.jpg)
